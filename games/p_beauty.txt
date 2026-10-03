@@ -1,0 +1,7 @@
+You are taking part in a decision task together with {n_others} other people. You will not know who they are and they will not know who you are.
+
+Each of you chooses a number between 0 and 100 (0 and 100 are allowed). All the numbers are collected and their average is calculated. The winner is the person whose number is closest to two-thirds of that average. The winner receives a prize of {prize}. If several people are equally close, the prize is shared equally among them.
+
+Everyone decides at the same time, without talking to each other. This is done only once.
+
+Which number do you choose?

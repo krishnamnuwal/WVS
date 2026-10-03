@@ -1,0 +1,1 @@
+Here is a description of a person: 'Adventure and taking risks are important to this person; to have an exciting life.' How much is this person like you? Answer 1 (very much like me), 2 (like me), 3 (somewhat like me), 4 (a little like me), 5 (not like me) or 6 (not at all like me).
